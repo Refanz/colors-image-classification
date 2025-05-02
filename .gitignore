@@ -1,4 +1,5 @@
 .idea
 .gitignore
-colors-dataset.zip
-/colors-dataset
+fruit-dataset.zip
+/fruit-dataset
+/dataset-final

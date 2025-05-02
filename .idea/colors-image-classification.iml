@@ -3,6 +3,7 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/colors-dataset" />
+      <excludeFolder url="file://$MODULE_DIR$/dataset-final" />
       <excludeFolder url="file://$MODULE_DIR$/models" />
     </content>
     <orderEntry type="jdk" jdkName="colors-image-classification (4)" jdkType="Python SDK" />
