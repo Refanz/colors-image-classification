@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7ee45b1-6d24-4f06-95ba-d82e926d8cef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/img-prediction/apple.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img-prediction/pineapple.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/colors-image-classification.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/colors-image-classification.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/submission/saved_model/fingerprint.pb" beforeDir="false" afterPath="$PROJECT_DIR$/submission/saved_model/fingerprint.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/submission/saved_model/saved_model.pb" beforeDir="false" afterPath="$PROJECT_DIR$/submission/saved_model/saved_model.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/submission/saved_model/variables/variables.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/submission/saved_model/variables/variables.data-00000-of-00001" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/submission/saved_model/variables/variables.index" beforeDir="false" afterPath="$PROJECT_DIR$/submission/saved_model/variables/variables.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submission/tflite/fruit_model.tflite" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,25 +36,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/refanzzzz/PycharmProjects/colors-image-classification&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/home/refanzzzz/PycharmProjects/colors-image-classification/img-prediction",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.intellij.jupyter.py.connections.configurable.JupyterServersConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img-prediction" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/submission/saved_model" />
       <recent name="$PROJECT_DIR$/submission/saved_model/variables" />
@@ -79,7 +82,9 @@
       <workItem from="1746114687530" duration="26361000" />
       <workItem from="1746206936506" duration="15009000" />
       <workItem from="1746223453886" duration="11242000" />
-      <workItem from="1746238934674" duration="1221000" />
+      <workItem from="1746238934674" duration="1538000" />
+      <workItem from="1746272120149" duration="51000" />
+      <workItem from="1746292332215" duration="6791000" />
     </task>
     <servers />
   </component>
