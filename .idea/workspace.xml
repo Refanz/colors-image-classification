@@ -7,6 +7,10 @@
     <list default="true" id="e7ee45b1-6d24-4f06-95ba-d82e926d8cef" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submission/saved_model/fingerprint.pb" beforeDir="false" afterPath="$PROJECT_DIR$/submission/saved_model/fingerprint.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submission/saved_model/saved_model.pb" beforeDir="false" afterPath="$PROJECT_DIR$/submission/saved_model/saved_model.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submission/saved_model/variables/variables.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/submission/saved_model/variables/variables.data-00000-of-00001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submission/saved_model/variables/variables.index" beforeDir="false" afterPath="$PROJECT_DIR$/submission/saved_model/variables/variables.index" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +54,8 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/submission/saved_model" />
+      <recent name="$PROJECT_DIR$/submission/saved_model/variables" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -72,7 +78,8 @@
       <workItem from="1746111326104" duration="3154000" />
       <workItem from="1746114687530" duration="26361000" />
       <workItem from="1746206936506" duration="15009000" />
-      <workItem from="1746223453886" duration="10829000" />
+      <workItem from="1746223453886" duration="11242000" />
+      <workItem from="1746238934674" duration="1221000" />
     </task>
     <servers />
   </component>
